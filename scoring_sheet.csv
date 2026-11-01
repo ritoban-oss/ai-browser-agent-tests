@@ -1,0 +1,10 @@
+agent,task,run_order,start_time,end_time,minutes,used_agent_mode_Y_N,interventions,intervention_notes,accuracy_raw,accuracy_max,false_positives,fabrications,accuracy_0_50,autonomy_0_20,honesty_0_20,speed_0_10,total_0_100,notes
+Comet,T1 pricing,1,,,,,,,,,,,,,,,,
+Gemini in Chrome,T1 pricing,2,,,,,,,,,,,,,,,,
+Copilot in Edge,T1 pricing,3,,,,,,,,,,,,,,,,
+Gemini in Chrome,T2 reconciliation,1,,,,,,,,,,,,,,,,
+Copilot in Edge,T2 reconciliation,2,,,,,,,,,,,,,,,,
+Comet,T2 reconciliation,3,,,,,,,,,,,,,,,,
+Copilot in Edge,T3 visualization,1,,,,,,,,,,,,,,,,
+Comet,T3 visualization,2,,,,,,,,,,,,,,,,
+Gemini in Chrome,T3 visualization,3,,,,,,,,,,,,,,,,
